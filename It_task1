@@ -1,0 +1,6 @@
+A = int(input("Please type in a full number: "))
+if A>0:
+    A = A+1
+    print(A)
+else:
+    print(A)
