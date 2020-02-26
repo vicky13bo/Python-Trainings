@@ -5,3 +5,4 @@ if A>0:
 else:
     print(A)
 print("Anything")
+print("Green")
